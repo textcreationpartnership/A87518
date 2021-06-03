@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A watch-vvord for Kent: and may serve for admonition to Essex, Suffolke, and other counties which doe enjoy the gospell, and their estates in quietnesse. Exhorting Gods people to stir up themselves out of security, and prepare for an heavy iudgement that may be comming upon them: being sermon-notes delivered at Feversham in the county of Kent: / by William Jemmat, Master of Arts: ordered by Parliament to bee preacher there.</title>
+            <author>Jemmat, William, 1596?-1678.</author>
+         </titleStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87518</idno><idno type="EEBO-CITATION">99871162</idno>
+  <idno type="VID">159052</idno>
+  <idno type="EEBO-PROQUEST">2240944955</idno>
+  
+            <idno type="STC">Wing J552</idno>
+            <idno type="STC">Thomason E249_20</idno>
+            <idno type="STC">ESTC R212556</idno>
+            <idno type="PROQUEST">99871162</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871162e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159052)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E249[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A watch-vvord for Kent: and may serve for admonition to Essex, Suffolke, and other counties which doe enjoy the gospell, and their estates in quietnesse. Exhorting Gods people to stir up themselves out of security, and prepare for an heavy iudgement that may be comming upon them: being sermon-notes delivered at Feversham in the county of Kent: / by William Jemmat, Master of Arts: ordered by Parliament to bee preacher there.</title>
+                  <author>Jemmat, William, 1596?-1678.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Matthew Walbanke, and are to be sold at his shop at his shop [sic] at Grayes-Inne gate.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159052:1"/>
+            <p>A WATCH-VVORD For KENT: And may serve for admonition to Essex, Suffolke, and other Coun<g ref="char:EOLhyphen"/>ties which doe enjoy the Gospell, and their Estates in quietnesse.</p>
+            <p>Exhorting Gods people to stir up them<g ref="char:EOLhyphen"/>selves out of security, and prepare for an heavy Iudgement that may be comming upon them: Being Sermon-notes, delivered at Feversham in the County of Kent:</p>
+            <p>
+               <hi>By</hi> William Jemmat, <hi>Master of Arts: Ordered by Parliament to bee Preacher there.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>LAM. 1.9.</hi>
+               </bibl>
+               <p>Her filthinesse is in her skirts, shee remembreth not her last end: therefore shee came downe wonderfully.</p>
+            </q>
+            <p>Printed at London for <hi>Matthew Walbanke,</hi> and are to be sold at his Shop at his shop at Grayes-Inne gate. 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:159052:2"/>
+            <head>To my Neighbours of Feversham, and others in the severall parts of this County.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a great mercy of God to us, that as yet wee sit quietly every one under his owne Vine and Fig-tree, and may without feare praise the Name of the Lord. And it is wisely done of our Worthies in the County, that they prepare for dan<g ref="char:EOLhyphen"/>ger, and enter into Association for our safety and defence. Yet because our sin deserve, that the Cu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of furie should come even to us, and we are not sufficient<g ref="char:EOLhyphen"/>ly prepared in that respect, receive pray you this word of Exhortation, prea<g ref="char:EOLhyphen"/>ched and published for the same purpose: Marke how the Iudgement hath gone about in <hi>Germany</hi> in <hi>France</hi> and other Countries: then how the Thunder came over <hi>Scotland:</hi> then how terrible it fell upon <hi>Ireland:</hi> then in the North at home next in the South: afterward in divers parts of the Land: and especially, the great cracke in the heart of the Kingdome, at <hi>Edge-hill:</hi> together with the Westerne and Northerne troubles a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d woefull desolations almost every where. A wonderfu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l patience &amp; goodnesse of God that we have escaped hitherto, and enjoy such space of repentance and pr<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>paration.</p>
+            <p>As one of the Lords Watch-men for this Country, I woud hereby awaken my Neighboures to be in readinesse for an heavy stroake, which the longer it is in fetching, the deeper gash it will make; bad enough if infflicted by native Armies, worse if by forreigners invading. And oh that we might have one Fast in the moneth for distracted <hi>England,</hi> till the peace be restored, as hither<g ref="char:EOLhyphen"/>to we have had one for distressed <hi>Ireland!</hi> The Lord put it into the heads of our Worthies in Par<g ref="char:EOLhyphen"/>liament to make such an Ordinance, and into the hearts of his p<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople to seeke his Face in f<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sting and Prayer not onely once in the moneth, but twice or thrice: yea, in truth the Lord should have <hi>no rest</hi> given him, till he establish, and make Ierusalem a praise in the earth. Esa <hi>62.6, 7.</hi> Enough of preface. I rest,</p>
+            <closer>
+               <signed>
+                  <hi>Yours in the Lord,</hi>
+                  <lb/> William Iemmat.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:159052:2"/>
+            <head>A Watch-word for Kent, in which Discourse are con<g ref="char:EOLhyphen"/>tained these sixe particulers following, viz.</head>
+            <argument>
+               <p>
+                  <list>
+                     <item>I Necessity and wisedome of preparing for the Crosse.</item>
+                     <item>II Rules of preparation for the Crosse.</item>
+                     <item>III Fondnesse of not preparing for the Crosse.</item>
+                     <item>IV Benefit of preparing for the Crosse.</item>
+                     <item>V Hinderances of preparing for the Crosse.</item>
+                     <item>VI Motives to prepare for the Crosse.</item>
+                  </list>
+               </p>
+            </argument>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Vegitius, L. 3. C. 22.</hi>
+                  </bibl>
+                  <p>In bello, qui plus in angarijs vigilaverit, plus in exercendo milite laboraverit, minu<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> periculum sustinebit.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>AMOS 4.12.</hi>
+                  </bibl>
+                  <p>Prepare to meete thy God, O Israel.</p>
+               </q>
+            </epigraph>
+            <div n="1" type="section">
+               <head>
+                  <hi>Section 1.</hi> Prepare for the Crosse.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is good wisdome in Gods people to make ready for a Judgement.<note place="margin">Wisedom of prepa<g ref="char:EOLhyphen"/>ring for the crosse.</note> A wise Pilot seeing a storme in the Clouds, striketh saile, putteth into an harbour if he can, and doth all he may to avoyd the danger. And a wise Generall, having a vigilant ene<g ref="char:EOLhyphen"/>my in the field, standeth carefully upon his guard, and prepareth for a battell. Sin hath made the Lord our Enemy, and raised a black storme against us: and Wis<g ref="char:EOLhyphen"/>dome requireth we stand in a preparednesse for the evill, And this is good:</p>
+               <p n="1">1 To prevent the evill if it be possible.<note place="margin">In sixe re<g ref="char:EOLhyphen"/>spects.</note> As these Jewes who are here bid to <hi>Prepare</hi> for a stroak that was comming, yet afterward are encouraged in seeking Gods favour. Amos 5.4. <hi>Seeke yee me, and yee shall live:</hi> and verse 6. <hi>Seeke the Lord, and yee shall live, least he breake out like fire,</hi> &amp;c. Ninive upon humiliation and reformation, against an expresse sentence was spared. Israel, standing naked before God, as ready to receive the lash, obtained favour, and Gods presence to goe before them in Canaan, Exod. 33.5.6.14.</p>
+               <p n="2">2 To <hi>prepare an Arke</hi> against the floud comes: that though the most escape not,<note place="margin">Heb. 117.</note> yet thou mayest, as <hi>Noah</hi> when the world was drowned.</p>
+               <p n="3">3 To make the Judgement the lighter. <hi>Darts which are seene before they come, either hit not,</hi>
+                  <note place="margin">Praevisa jacula mi<g ref="char:EOLhyphen"/>nus seri<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+                  <hi>or doe the lesse harme. Iob</hi> became the mirrour of patience in his great afflictions because hee be<g ref="char:EOLhyphen"/>thought himselfe before-hand of a change that might come: c. 3.25. <hi>The things which I greatly feared, is come upon me.</hi>
+               </p>
+               <p n="4">4 To make it a <hi>short</hi> tryall, though <hi>sharpe.</hi> God hath <hi>Chambers</hi> of love for them that <hi>wa<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te for him in the way of his judgements,</hi> to hide themselves as it were <hi>for a little moment,</hi> untill the indig<g ref="char:EOLhyphen"/>nation be over-past, Esa 26.8, 19, 20, 21.</p>
+               <p n="5">
+                  <pb n="4" facs="tcp:159052:3"/>5 To get it well with posterity, though our selves should miscarry in the judgement. Though the Iewes were cut off in the Wildernesse, entred into Canaan, <hi>Num,</hi> 14.31. The Captivity could not be avoyded, yet the children <hi>returned</hi> out of the captivity. Many godly Christians are slain now adaies, whose children neverthelesse may enjoy Peace and the Gospel. And it is a great mercy, not to be <hi>left</hi> to the will and power of Idolaters.</p>
+               <p n="6">6. To escape eternall Judgements, though not temporall: as those that were <hi>judged according to men in the flesh,</hi>
+                  <note place="margin">Reasons s<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ng the neces<g ref="char:EOLhyphen"/>sitie of u<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> preparati<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</note> that they might <hi>live according to God in the spirit.</hi> 1 Pet. 4.6.</p>
+               <p>Now there be many Reasons, which evince this preparation to be necessary, and a poynt of wisedome.</p>
+               <p>First, It is a fearefull thing to bee surprized unawares and unprepared: Heb. 10.31. <hi>It is a fearefull thing to fall into the hands of the the living God.</hi> God will not <hi>meete</hi> such <hi>as a man,</hi> Esa 47.3. but as a Beare, or a Lion.</p>
+               <p>Secondly, we may worke wisely, so as to avoyd all, or most of the evill, or the Worst of it we have a mercifull God to deale withall: <hi>thy God, O Israel:</hi> a God in Covenant with thee, and will keep Covenant faithfully, though thou be not so faithfull as thou shouldest be.</p>
+               <p>Thirdly, God doth much to stir us up out of our sencelesnes: by his <hi>Word</hi> written and Prea<g ref="char:EOLhyphen"/>ched, wherein are terrible comminations for sin, and sweet allurements to himselfe: <hi>by lighter judgements,</hi> which tell sinners the Lord is not well pleased with them in their wickednesse: and by <hi>revealing his glory,</hi> both in his <hi>Attributes,</hi> and in his <hi>Workes,</hi> and here the Prophet doth, v, <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3 <hi>Prepare to meet thy God, O Israel: for loe, he that formeth the mountaines, and created the wind, &amp;c</hi>
+               </p>
+               <p>Fourthly, when we meet, it is not to <hi>salute</hi> as a fellow, but <hi>doe homage</hi> and service as to a King: great and glorious, <hi>the Lord the God of Hosts is his name,</hi> saith the Prophet there: and the greater the person is for whom we prepare, the greater and more carefull must the preparation be. Yet here this great Personage offereth himselfe to us in love: as a Bridegrome: and we should prepare our selves as a <hi>Bride,</hi> Revel. 21.2.</p>
+               <p>Fiftly, we are not fit for meeting so holy a Majesty. Our sin makes us unfit, &amp; hath armed him with wrath against us. And how should two such contraries agree at their meeting?</p>
+               <p>Sixtly, God prepares to meete us: as <hi>Esau</hi> to meete <hi>Iacob, Iacob</hi> wisely see him selfe to ap<g ref="char:EOLhyphen"/>pease his inraged Brother: so should we, to appease an enraged Father. And if we duely pre<g ref="char:EOLhyphen"/>pare, he will meete us with good: <hi>we shall be saved,</hi> Esa 64.5. <hi>Thou meetest him that rejoyceth, and worketh Righteousnesse, those that remember thee in thy waies.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>Section 2.</hi> Rules of preparation for the Crosse.</head>
+               <p>
+                  <note place="margin">Rules to prepare to meet God.</note>THese things so being, it might be asked, what should we do to prepare to meete our God? whereto I answer:</p>
+               <p>First, get within him, and make sure of his love in Christ, the Peace-maker: that if thou must dye, thou mayest dye in the bosome and hand of a Father, and mayst be able to say with <hi>Iob, Though he kill me,</hi>
+                  <note place="margin">Iob 13.15.</note>
+                  <hi>yet will I trust in him:</hi> and if I dye a violent death, I shall goe to heaven so much the sooner. The rule is to be seene in <hi>Esay</hi> 27.4, 5. and 2 <hi>Pet.</hi> 3.14. And the thing is feasible, if time be taken, and gracious means well improved. Wherefore have we had the Gos<g ref="char:EOLhyphen"/>pell 85. yeares, in much Peace and prosperity, but that we should get hold of the love of God, and thereby be well provided against a rainy day? And ye know the course which the Gospell prescribeth to bring God and a sinfull soule together; namely, <hi>a course of humiliation and prayer:</hi>
+                  <pb n="5" facs="tcp:159052:3"/> to go forth of it selfe, and sue for a part in Christ, by whom alone reconciliation is to be had. And what if it be a troublesome and perplexive course? yet it is good to take, as alwayes, so especial<g ref="char:EOLhyphen"/>ly in times of danger &amp; publique calamity. <hi>Habakuk</hi> trembled in himselfe, at the report of judg<g ref="char:EOLhyphen"/>ments comming, <hi>that he might rest in the day of trouble, C.</hi> 3.16. In Christ there is peace still, though the world be full of <hi>tribulations,</hi> and the greatest enemy rage up and downe in a King<g ref="char:EOLhyphen"/>dome: see <hi>Iohn</hi> 16. <hi>ult.</hi> with <hi>Micah</hi> 5.5. When moralities and formalities will come short of comforting (<hi>all our righteousnesses</hi> being as <hi>filthy clouts</hi>) a part in Christ will afford strong con<g ref="char:EOLhyphen"/>solation.<note place="margin">Esa 64.6</note> Much lesse comfort in armies, stratagems, victories: all these are uncertaine, and ac<g ref="char:EOLhyphen"/>companied with great miseries: even the victor is a loser: and especially the losse of soules, if they be not reconciled to their God.</p>
+               <p>Consider, and study this reconciliation. It may be, these feares and troubles are brought upon us, to make us do what we did not in times of more freedome and security: which generally are as standing waters, that gather much mud and vermine. Thinke of it: when so many enemies are let loose; it were not good to have God thine enemie too: and to have an accusing conscience flye in thy face, which is as bad as a thousand witnesses, or enemies. And Satan wilbe doing in a time of straights and difficulties no way to be non-suited, but onely in and by Christ, <hi>Rom.</hi> 8.38, 39. <hi>Principalities &amp; powers cannot separate from the love of God which is in Christ.</hi> And though he be troublesome for a while, yet the God of Peace will tread him under our feete shortly, <hi>C.</hi> 16.20.</p>
+               <p>So of <hi>renewing</hi> thy peace and covenant with God: which is broken by fresh sins: every one knows what baulk he hath made in his course, as an husband or wife, a parent or child, a Mr. or servant, or in any other relation: what scandall he hath given, or what formality of religion hee hath discovered: Now <hi>remember from whence thou art fallen, and repent, and do thy first works:</hi>
+                  <note place="margin">Rev. 2.5.</note>
+                  <hi>Returne O Shulamite, returne, returne:</hi> Do it on this day of humiliation, which is not appoin<g ref="char:EOLhyphen"/>ted to hang the head like a bul-rush for a day, but to <hi>break the bands of wickednesse.</hi>
+                  <note place="margin">Es 58.5, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2</note>
+                  <hi>&amp;c.</hi> When we have not the first part, that is, of innocency, yet be sure to get the second, of humility and mo<g ref="char:EOLhyphen"/>desty. It would be a terrour in an evill day to be found in the guilt of any one sin: as <hi>Iosephe</hi> brethren felt, saying, <hi>We are verily guilty concerning our brother,</hi> &amp;c. <hi>Gen.</hi> 42.21, 22. Now we shuffle and cut, and justifie our froward ways, or will not confesse a fault: but then all will appear afresh, and conscience wilbe heard: Our sin will come home to us, sooner or later, <hi>Num.</hi> 32.23, <hi>Be sure your sin will find you out.</hi> And certainely we need no such addition to our sor<g ref="char:EOLhyphen"/>rows: at best weak enough, much more if our spirit be wounded by our guiltinesse:<note place="margin">pro 18.14.</note>
+                  <hi>A wounded conscience who can bea<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</hi>
+               </p>
+               <p>Look to it therefore in time. <hi>Agree with thine adversary quickely, while thou art in the way, before the mischief</hi> come: <hi>Mat.</hi> 5.25 <hi>To day</hi> if ye will hear his voyce, harden not your heart. The work is a work of a great consequence, and your time to do it uncertaine: and the evil day no fit day to do this work: and if ye should then set to do it, conscience may say, it is selfe-love. Now in extreamity ye seek the Lord, it is only for your owne sake that yee pray and humble your selves, &amp;c. With what terrour would it be for a while, though in the conclusion ye should do well enough? Beside, ye looke for comfort before that time: if ye should be sick, or otherwise afflicted. Or ye would looke to escape such and such troubles. Then come to Gods termes: put your selves into such a posture, as ye may be capable of mercy and deliverance.<note place="margin">Amos. 3.3</note>
+                  <hi>Can two walke together, except they be agreed?</hi> Can ye have comfortable communion with the great God in af<g ref="char:EOLhyphen"/>flicted times, unlesse ye first make and maintaine peace with his Majesty.</p>
+               <p>This is the chiefe rule of preparing for the Crosse: Justification.</p>
+               <p>Secondly, grow up more and more toward entirenesse in the way of holinesse:<note place="margin">2 Cor. 7.<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> to <hi>perfect ho<g ref="char:EOLhyphen"/>linesse
+<pb n="6" facs="tcp:159052:4"/> in the feare of the Lord:</hi> not only to be right in the maine, but in particullers: to make thy way to heaven a faire way, as well as to be in the way to heaven: to get thither with as little dirt and soile as may be (for some there wilbe.) This will be a great comfort in the evill day: as to <hi>Paul,</hi>
+                  <note place="margin">Numb 16.15. 1 Sam. 12 3</note> in his great affliction, 2 <hi>Cor.</hi> 1.12. <hi>This is our rejoycing, even the testimony of our conscience.</hi> Such shall be able to look up to God, and not be ashamed as <hi>Moses,</hi> when slandered by <hi>Korah:</hi> and <hi>Samuel,</hi> when rejected by the people. The more grace, the more evidence for heaven, and hold of the promises and testimony of Gods Spirit, that ye are his children. Com<g ref="char:EOLhyphen"/>munion will now appeare, what sweete fruite it can yeeld to the good soule. See <hi>Psame</hi> 91.14, 15, 16.</p>
+               <p>In this rule two branches.</p>
+               <p n="1">1. Take in hand the mortifying of thy speciall lust. Commonly there is one blemish or other even in good Christians, to blot all their good. And every one knows what his speciall corruption is: pride, or passion, or idlenesse, or earthlinesse, &amp;c. Examine now, &amp; censure it, it wilbe a token of sincerity in thee, to wage war with it: as in <hi>David,</hi> Ps. 18.23. <hi>I was also upright before him, and I kept my selfe from mine iniquity.</hi> The most carnall man can see and hate sinne in another, though it be but as a moate to his owne beame: and can cast off some sins in himselfe, namely, which are least liked. But sincerity hateth <hi>every false way, Psal.</hi> 119.104. And so it getteth boldnesse; as it were of a Lyon: whereas one <hi>Achan</hi> troubled all Israel: Speciall sins will bee a gall and terrour one day: sins of youth affrighted aged <hi>Iob.</hi> Art thou come to call my sins to re<g ref="char:EOLhyphen"/>membrance this day?</p>
+               <p n="2">2. Quicken up thy selfe to a lively performance of holy duties: which sometime begin to grow toward a forme:<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note>
+                  <hi>Stirre up the gift of God that is in th<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</hi> 2 <hi>Tim.</hi> 1.6. As fire it stirred from under the ashes. Know it is a sin, <hi>not to stir up</hi> thy selfe, <hi>Esay</hi> 64.7. <hi>There is none that stirreth up himselfe to take hold of thee.</hi> There is much vertue in Ordinances, if well improved: as in hony-combes, much sweetnesse: And there is great comfort, when affliction finds us in a good way:<note place="margin">Mat. 24 46</note>
+                  <hi>Blessed is the servant whom the Master at his comming findeth well-doing.</hi> Such are <hi>blessed,</hi> though in dying, of what kinde soever the death be: <hi>Rev.</hi> 14.13.</p>
+               <p>This of the second rule of preparing for the Crosse: Sanctification.</p>
+               <p>Thirdly, hold thy worldly comforts loosely, weignedly, indifferently, <hi>not setting thy heart on</hi> them:<note place="margin">Colos 3.2 1 Cor. 7 31 H<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b 10.<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4</note> use, <hi>as not using.</hi> What I lightly love, I can lightly leave: but that which hath gotten into my heart, how can I part with it? We read of some that <hi>suffered with joy the spoyling of their goods:</hi> and of others, who over-loving their goods, did leave Christ and the Apostles: for they <hi>had great possessions:</hi>
+                  <note place="margin">Mat. 9 22 Lu. 14 <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6.</note> and their possessions had them: Goe therefore, and learne what that mea<g ref="char:EOLhyphen"/>neth, <hi>hate all for Christ:</hi> lands, houses, friends, all. Not that all must be forgone <hi>actually,</hi> and ye should turne Mendicants <hi>(to better purpose is worldly wealth held humbly,</hi>
+                  <note place="margin">Aug.</note>
+                  <hi>then forsaken proudly:)</hi> but only in <hi>preparation of your minde,</hi> to let all goe when God calleth away, as seeing the weak<g ref="char:EOLhyphen"/>nesse, emptinesse, and uncertainty of the creature, and what little worth it hath in comparison of better things. Now there needs much adoe with earthly hearts, to bring them to it. But remem<g ref="char:EOLhyphen"/>ber, it will be worse to be rent from those comforts as in a moment. A hard lesson must be long in learning. Begin quickly, and thou maist yet grow up to great contempt of the world.</p>
+               <p>Fourthly, be mourners for the abhominations, and contest against them: the way to be <hi>marked</hi> and saved from common destruction.<note place="margin">2 Pet. 2 8.</note> Ezec. 9.4. Lot <hi>vexed his righteous soule daily</hi> with the uncleane conversation of the wicked, and escaped in the overthrow of those Cities. The Lord <hi>had</hi> Ieremy and Baruk.<note place="margin">1 Cor. 3.5 <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</note> Others are saved, though <hi>by fire:</hi> and carried <hi>through the fire,</hi> to be vessells of honour for the Lords use, Zech. 13. <hi>ult.</hi> Mourne therefore for the sins of the times: yea helpe forward the evill of them, at least by your sluggishnesse: And your Father in Heaven is grieved
+<pb n="7" facs="tcp:159052:4"/> by those sins: And, though yee cannot <hi>amend</hi> things that are amisse, yet yee can <hi>mourne</hi> for the incorigiblenesse. Doe so, and it shall be remembred for your good another day.</p>
+               <p>F<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fty be well grounded in the Doctrine of Gods providence: to say readily with Iob,<note place="margin">Iob. 1.21.</note>
+                  <hi>The Lord gave, and the Lord tooke away, blessed be the Name of the Lord:</hi>
+                  <note place="margin">Mat. 10.29</note> That a <hi>Sparrow fals not to the <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ound without the will</hi> of your heavenly Father, and even <hi>the haires of your head are all numbred:</hi> That he ordereth the time, manner, and <hi>measure</hi> of the affliction. Esa 27.7, 8. and <hi>This is your hour:</hi> That he doth all in perfect wisedome and love, having said,<note place="margin">Iohn. 16.7</note>
+                  <hi>It is expedient for you that goe away:</hi> That all shall fall out <hi>for the best,</hi> Rom. 8.28. That hee knowes to convay comfort into the heart, at the worst, Mic. 7.8. <hi>When</hi> I <hi>sit in darkenesse, the Lord shall be a light unto me:</hi> That he will give strength to <hi>beare</hi> the burden, 1 Cor. 10.13. and open a way to <hi>e<g ref="char:EOLhyphen"/>scape</hi> out of the difficulty: That he rebuketh the enemies when he pleaseth, saying as to the proud waves. <hi>Thus farre shall yee goe, and no farther:</hi> That our cause shall gaine by our suffering as <hi>Pauls,</hi> Phil. 1.12. That Antichrist and all enemies shall goe into perdition,<note place="margin">Rev. 14.8.</note> though prevalent for a while <hi>Babylon is fallen, i<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fallen, &amp;c.</hi>
+               </p>
+               <p>Sixtly, keepe close to the rules of the Word, to be as exact in your obedience as possible you can: which hath the promise to be <hi>kept in the houre of temptation</hi> which comes on all the world to by them that dwell on the earth Rev. 3.10. and Pro. 4.6. <hi>Forsake her not and she shall pre<g ref="char:EOLhyphen"/>serve thee: love her, and she shall keepe thee.</hi> If Salt must keepe the flesh from putrifying, the flesh must keepe the Salt that it fall not off: so of holy Doctrine, which is <hi>the s<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lt of the earth.</hi>
+                  <note place="margin">Mat 5.13.</note> Loose Christians will be at a losse for comfort, when most need is: neither are like to be strong in the skirmish, being in peace so carelesse.</p>
+               <p>Seaventhly, learne perfectly the lesson of Selfe-deniall: so to bee able to <hi>follow</hi> Christ and <hi>beare his Crosse,</hi> Mat. 16.24. Conceited, wilfull, sensuall, easie Christians will shrinke in the wetting. By lesser Tryalls wee must (as Souldiers) bee inured and trained up to greater.</p>
+               <p>Eightly, get speciall provisions against the evill day:<note place="margin">Provisions for <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e e<g ref="char:EOLhyphen"/>vill day: <hi>3</hi> sorts.</note> as we see Ammunition provided to make war: not onely bread and cloathes, but swords and guns, &amp;c.</p>
+               <p n="1">1 Store of fortifying graces. Knowledge to answer the opponents of truth and righteousnesse 1 Pet. 3.15. Courage to withstand all their violence and impudency, 2 Tim. 2.1. <hi>Be strong in the grace of Christ.</hi> Faith and patience to <hi>inherite the promises</hi> and <hi>poss<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sse your soules,</hi> Heb. 6.12 Humility and meekenesse: to <hi>suffer as a Christian:</hi> not reviling againe, &amp;c.<note place="margin">1 <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t 4.16</note>
+               </p>
+               <p n="2">2 Plenty of workes of love: which God will remember and requite Heb. 6.10. It is a <hi>good foundation</hi> against the time to come, 1 Tim. 6.18, 19. It hath a promise of <hi>mercy,</hi> and <hi>delive<g ref="char:EOLhyphen"/>rance</hi> in time of trouble, Psal. 41.1, 2 3. <hi>The blessing of the poore</hi> shall come upon us,<note place="margin">I<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b 29 13</note> as upon <hi>Iob</hi> who remembers it with comfort. There will be a blessed returne, though <hi>after many daies,</hi> Eccles. 11.1, 2. Doe it therefore: <hi>for thou knowest not what evill shall be upon the earth.</hi>
+               </p>
+               <p n="3">3. A stocke of Prayers, sent before to the Throne of grace: the benefit of them to be received another day, as in casting seed into the ground. These are like <hi>Ioseph,</hi> sent before into Aegypt to make provision for his father and brethren. They have the promise, and shall have an answer, sooner or later: <hi>Aske and yee shall have.</hi>
+                  <note place="margin">Mal 3.16</note>
+                  <hi>A booke of remembrance is written for them that feare God, and that thinke on his Name. Are not these things noted in thy booke? Psal.</hi> 56.8.</p>
+            </div>
+            <div n="3" type="section">
+               <pb facs="tcp:159052:5"/>
+               <head>
+                  <hi>Section 3.</hi> Fondnesse of not preparing for the Crosse.</head>
+               <p>
+                  <note place="margin">A sin not to prevent for a judg<g ref="char:EOLhyphen"/>ment.</note>IF those things be so, then numbers doe not prepare themselves to meete their God, as they ought to doe. Oh we hope well, say they. But this is a misuse of hope, which, where it is true and lively indeed, doth ever <hi>purge</hi> for the present, both heart, and life, and is <hi>provident</hi> for time to come, to fasten on things above. 1 Ioh. 3.3. Heb. 6.19.</p>
+               <p>Other stormes have blowne over, and so may this.</p>
+               <p>
+                  <hi>Answ.</hi> Where is the fruite of former deliverances? what thankfulnesse? perhaps now all must be reckoned for together.</p>
+               <p>God is mercifull. <hi>Answ.</hi> And too much provoked.</p>
+               <p>Wee have excellent provisions: Armes, men, valour, wisedome.</p>
+               <p>
+                  <hi>Answ.</hi> Heretofore all these have proved but <hi>the Reed of Aegypt.</hi> And we see at this day, how these are set to clash one against another: so to be in danger of forreigners.</p>
+               <p>They will agree at last, as in the Scottish businesse. <hi>Answer.</hi>
+               </p>
+               <p n="1">1 We wish and pray, but doe not know whether the bitter <hi>Cup</hi> shal not come about to us also.</p>
+               <p n="2">
+                  <note place="margin">I<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 25.15.</note>2 Sincerity followeth God in the passage of his providence, to go as he leads the way: in mercies, to be the better for them,<note place="margin">D<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut. 28 47.</note>
+                  <hi>and serve him with gladnesse of heart in the abundance of all things:</hi> In Judgements, to worke off hardnesse of heart, and labour to become <hi>partakers of his holinesse:</hi> In threats and feares, to incline to the surer side, of assuring his love, and providing for the worst; that if creatures should faile,<note place="margin">Heb. 12.10</note> the Creator may be for us; and if earth cast us out, yet Heaven may receive us, into those everlasting habitations. But hypocrisie will ever halt: never right, either in feares or comforts: for a while melteth, or praiseth, but never prepares for evill, or to be thank<g ref="char:EOLhyphen"/>full for good: and the best it doth, is onely of selfe-love, to get out of Gods hand, and avoyde smart as much as it can.</p>
+               <p n="3">
+                  <note place="margin">
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ph. 1.12</note>3 If peace continue, and you prepared not for the contrary, it is ill for you howsoever: yee will settle upon your <hi>dregs and lees,</hi> and hold your sinnes which worke wrath: yee will be more hard<g ref="char:EOLhyphen"/>ned and insensible, not to repent of your sins: and be more carelesse to make peace with God: and fly upon the creatures profits and pleasures, more violently and immoderately: and must one day answer for making no good use of Gods hand stretched out against you. So it will be onely a <hi>Reprive,</hi>
+                  <note place="margin">2 K. 9.22</note> and not peace. <hi>What peace,</hi> so long as thy wickednesse remaineth? <hi>There is no peace to the wicked, saith my God,</hi> Esa 57. <hi>ult.</hi> It is a sin, to divide peace and holinesse. Peace is never found, but when it is a reward of holinesse, and an encouragement to holinesse: nor without peace well concluded with God, Rom. 5.1.</p>
+               <p>
+                  <hi>Object.</hi> Wee are prepared well enough, say some, we care not if we were dead; if wee were dead once, there were an end of all feare and trouble.</p>
+               <p>
+                  <hi>Answ.</hi> 1 This is quickly said, but not so soone done. It is a great worke to dye well: yea the hardest taske that any hath to doe: and should be done daily 1 Cor. 15.31. I <hi>dye daily.</hi> And even to them that were well resolved, the feares of death will returne now and then.</p>
+               <p n="2">2 If ye be in leed prepared to dye, yet consider, Are yee prepared to dye <hi>in such a manner,</hi> as in Ireland, children first slaine before your eyes, wife ravished, goods plundered, &amp;c?</p>
+               <p n="3">
+                  <note place="margin">Rev. 2.12</note>3 A worse death remaines for them that dye before they be prepared duely: <hi>the second death: a</hi> Lake that burneth with fire and Brimstone for ever: where the Worme dyeth not, and the fire goeth not out. To the wicked world in common miseries, <hi>Hell follows death, Rev.</hi> 6.8</p>
+               <p n="4">
+                  <pb n="9" facs="tcp:159052:5"/>4. There be some tryals, to know whether ye be well prepared.<note place="margin">Tryall of our prepa<g ref="char:EOLhyphen"/>rednesse.</note>
+               </p>
+               <p>First, if Evangelicall graces be found right upon tryall. Repentance by those notes in a Cor. 7.11. Faith by purifying the heart, overcomming the world, quenching the fiery darts of the divell, and the like. Obedience by the universality of it, right aymes and ends, &amp;c. Man may be deceived with showes, as copper in stead of gold: but God is a skilfull Lapidary, and cannot bee cheated: <hi>Be not deceived, God is not mocked,</hi> Gal. 6, 7.</p>
+               <p>Secondly, none can passe Gods judging of him, who hath not first duely <hi>judged himself.</hi>
+                  <note place="margin">1 Cor. 11.31. Ezek. 6.9. Mat 16.24 Ier. 31.18.</note> All are obnoxious by sin: and must cite, arraign, confesse, plead guilty, get into Christ and sue out their pardon. And the phrases of Converts are, that they <hi>loath, deny, bemoane, ab<g ref="char:EOLhyphen"/>hor, judge,</hi> and <hi>condemne themselves:</hi> An excellent frame of spirit in the eye of God, who hath made a Covenant, and gracious promises to such persons: Christ is a <hi>Physitian</hi> to the sicke, and a <hi>shelter against the storme,</hi> Esa 15.4. Not so to them that are touchie, and can<g ref="char:EOLhyphen"/>not abide tryall by a searching Ministery. A fellon that gets not a pardon, is not prepared for the Judges comming, though perhaps he drink and be joviall.</p>
+               <p>Thirdly, he that shrinks in smaller tryals is not likely to stand in greater: as he that can<g ref="char:EOLhyphen"/>not keep pace with a footman, is not likely to run along with a horse man. What he may do, we know not; but such a one hath cause to suspect himselfe. Hee that cannot endure persecution of the tongue, is not likely to endure persecution of the sword, or fire. He that now feares carnall neighbours, parents, Land-lords, how miserably will he feare Bonners and blood-suckers? He that will not part with a little of his goods for service of Church &amp; Common-wealth, how will he suffer joyfully the spoyling of all his goods? Hee that will not submit Christianly, loosing one childe at the call of God, how will hee hold patience if all his children were taken away, as <hi>Iobs</hi> were? Certainly such are not prepared to meete the Lord, comming in fury. There needs much preparation for this <hi>consuming fire,</hi> Esa 33.14, 15. Raw souldiers are not fit to stand in a hot battell.</p>
+               <p>Fourthly, examine how thou standest affected in the present causes of Gods Church and people: what the bent of thy heart is, for the good side or the bad: for the broad way or narrow: for godly and strict Christians, or others: for the reformation of things amisse, or against it: What desire thou hast, that the good prevaile, what feare lest the evill: What joy when any good is done, whereat others bite the lip, and gnash the teeth: What pray<g ref="char:EOLhyphen"/>ers, fasts, charges, making of friends, for advancing the work of God: Whether it be with thee as with <hi>David,</hi>
+                  <note place="margin">Ps. 122.6. E<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 6.10 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <hi>whose goodnesse extended to the Saints on earth and to the excellent in whom was all his delight,</hi> but he hated Idolaters, <hi>Psal.</hi> 16.3.4. Only such have the promise, to <hi>prosper:</hi> and to have part in the <hi>consolation</hi> of the Church. It is not for every vaine, idle, private-minded Christian to looke for comfort in great calamities. They that meane to <hi>re<g ref="char:EOLhyphen"/>joyce</hi> with the godly, must first <hi>mourne</hi> with the godly. God wil acknowledg none for true borne children, but only such. We see what becomes of the <hi>fea of all,</hi> Rev. 21.8. and of pri<g ref="char:EOLhyphen"/>vate-minded ones, <hi>Iudg.</hi> 5.23. <hi>Curse ye</hi> Meroz, &amp;c. What then of wranglers, scof<g ref="char:EOLhyphen"/>fers, enemies of good men, and good wayes? Is not the comming of Ch<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ist set purposely against them? <hi>Iude</hi> 14, 15.</p>
+            </div>
+            <div n="4" type="section">
+               <pb n="10" facs="tcp:159052:6"/>
+               <head>
+                  <hi>Section 4.</hi> Benefits of preparing for the Crosse.</head>
+               <p>
+                  <note place="margin">4 Benefi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of that pre<g ref="char:EOLunhyphen"/>paration p <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1. 24. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sa 8.1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>AS many as bethink themselves before-hand, how to be prepared and fit for the Lords visitation, we will to be of good cheare, even when terrours are round about: <hi>Bee of good courage, and he shall strengthen your heart, all ye that hope in the Lord? Feare not the feare of the wicked, nor say a confederacy to them.</hi> Ye are truly wise, though befooled in in the world. Ye do well, as <hi>Ioseph,</hi> to lay up Corne against a deare yeare. See what be<g ref="char:EOLhyphen"/>nefit accrewes by your preparation.</p>
+               <p>First, ye may assure your hearts, that God is and wilbe yours: prepare to meet <hi>thy God:</hi> though your children be not yours or goods,<note place="margin">H<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b. 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.5 Ioh 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> or husbands, or any of these comforts: I <hi>will not leave thee nor forsake thee,</hi> saith the Lord: <hi>but his owne whom hee loveth, hee loveth to the end.</hi> His Covenant and promises are everlasting, and hee knowes who kept covenant faithfully;<note place="margin">Ps <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3 26.</note> He knows and remembers exactly; as if all were <hi>written in a booke.</hi> So that thou mayst say boldly, <hi>My fl<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sh and my heart faileth: but God is the strength of my heart, and my portion for ever.</hi>
+               </p>
+               <p>
+                  <note place="margin">2 Cor. 12.9.</note>Secondly, ye may promise your selves a <hi>grace and strength sufficient</hi> for you: as to <hi>Paul.</hi> Heare the song appointed for the faithfull in evill times, <hi>Esay</hi> 26.1, 2, 3, 4. And may be a good stay for sad thoughts, what shall ye do if the Wars come even unto you. Upon this rock the Martyrs stayed themselves, of themselves poor, weake, simple, helplesse creatures. A brother is borne for adversity: and God much more. He is a bad friend who loveth no longer then all goes well.</p>
+               <p>Cheere up therefore: it is not your own strength wherein ye must stand against <hi>Goliahs.</hi> No, <hi>in Christ ye shalbe able to do all things, Phillip.</hi> 4.13. And the <hi>joyce</hi> have in and by Christ, wilbe <hi>your strength, Neh.</hi> 8.10. Your <hi>faith,</hi> which Satan would blow away by winnowing wilbe <hi>your victory,</hi> 1 Joh. 5.4. So of patience, and the Spirit of Christ abi<g ref="char:EOLhyphen"/>d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng in you, &amp;c. And every promise remembred hath abundant strength in it: to give <hi>strong consolation,</hi> Heb. 6.18.</p>
+               <p>Thirdly, ye may promise your selves victory in the maine, though your selves dye in the battell. The cause shall outlive all the enemies, yea and be furthered by your sufferings, <hi>Phil.</hi> 1.12. Posterity shall see the good of it, and get into Canaan, <hi>Numb</hi> 14.3. Ene<g ref="char:EOLhyphen"/>mies shalbe all foiled, sooner or later, and cast into hell if incurable, <hi>Rev.</hi> 20.10. Every one cannot say so of his cause and enemies, &amp;c.</p>
+               <p>Fourthly ye may promise your selves a place in heaven, when the earth casteth you out or swalloweth you up: and say, Yet they cannot keepe me out of heaven, yet I shall land at those faire havens.<note place="margin">Heb. 4.9.</note>
+                  <hi>There remaineth a r<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st for the people of God,</hi> he hath <hi>prepared</hi> wel for them that prepare their hearts to seek him, 1 <hi>Cor.</hi> 2.9. Thus <hi>lift up your heads</hi> in evill times, as knowing the day of your redemption draweth nigh. The Lord in judgment remembreth mercy, and makes good provision, even for them that perish temporally. Remember the riddle of bearing Christs Crosse,<note place="margin">Mat. 16.25</note>
+                  <hi>He that loseth his life, shall save it, and he that saveth his life shall lose it.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> 1. If I were right in the maine, I know there were comfort enough in the worst times: but that is the question, &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> 1. This indeed is a thing to be well looked unto: for all the promises are made to Beleevers,
+<pb n="11" facs="tcp:159052:6"/> to them that love and feare God, and obey his voice. Only his <hi>children</hi> doe inhe<g ref="char:EOLhyphen"/>rite: <hi>Rom.</hi> 8.17.</p>
+               <p n="2">2. It is a sin, not to acknowledge the grace of God in thee, as for another to presume of mercy. There is that maketh himselfe poor (in grace) having great riches. And it is abho<g ref="char:EOLhyphen"/>minable to condemne the righteous, as well as to justifie the wicked. An humble notice of the work of Gods Spirit is as necessary, as to take notice of sin for thy humiliation.</p>
+               <p n="3">3. The maine may be assured by trying Evangelicall graces, as before: And, how camest thou to Christ and profession? whether humbled, sick, contrite in spirit? And, what sweet<g ref="char:EOLhyphen"/>nesse yeeldeth Christ now to thy soule? whether above children, riches, pleasures, other contentments? And, what judgment hast thou of Christ and the things of Christ? which is to be left, he, or those thy worldly contentments? And, what vehemency is in thy desires, to leave all for Christ? is it <hi>a flame, which much water cannot quench?</hi>
+                  <note place="margin">Cant. 8.6, 7.</note> Now thou comprehen<g ref="char:EOLhyphen"/>dest, or rather art comprehended of Christ: and art known of God. And Christ will take notice of thee for good, though thou take no notice of good in thy self. The root of the mat<g ref="char:EOLhyphen"/>ter is in thee: the <hi>substance</hi> in the Oake, <hi>Esa</hi> 6.13.</p>
+               <p>
+                  <hi>Object.</hi> 2. My graces are weake, if I have any at all: as is seen too often, even intrifling occasions. I doubt they will not suffice me in those great occasions.</p>
+               <p>
+                  <hi>Answ.</hi> 1. Being sound, they shall not miscary. The Gold-smith throwes not away one flake or dust of his gold. So of sound graces, which are the work of Gods owne spirit, and have the promise of blessing and perseverance: <hi>To him that hath, shall be given, and who<g ref="char:EOLhyphen"/>soever hath not, from him shall be taken, even that which he seemeth to have,</hi> Luke 8.18.</p>
+               <p n="2">2. We read that weak grace can do wonders: <hi>Faith as graine of mustard seed,</hi>
+                  <note place="margin">Luk. 17.6.</note>
+                  <hi>can re<g ref="char:EOLhyphen"/>move mountaines</hi> Only we must grow daily: and he that hears the cry of young ravens, will finish that faith whereof at first he was the Author.</p>
+               <p n="3">3. Remember the <hi>bruised reed</hi> and <hi>smoaking flaxe:</hi> and that it is Christs office,<note place="margin">Mat 12.10</note> to heal and helpe: he is a mercifull high priest for us in things pertaining to God: touched with a sence of our infirmities, and can have compassion of us: <hi>the Author and finisher</hi> of our faith, <hi>Hebr.</hi> 12.2.</p>
+               <p n="4">4. Christ will proportion his grace to the sufferings he calls thee unto:<note place="margin">2 Cor 12.9</note> that it shall <hi>be suf<g ref="char:EOLhyphen"/>ficient.</hi> Now lesse will serve the turne: but when thou needest more, thou shalt have more. The D<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sciples who were weake and raw at first, were afterward filled with power from on high, to suffer any thing. And Christians shall not know their owne strength, till it come to the proofe: <hi>lest they should be lifted up with the aboundance of Revelations.</hi>
+                  <note place="margin">Vers 7</note> Master <hi>Glover</hi> in sight of the stake cryed out, <hi>O</hi> Austin <hi>he is come, he is come:</hi> lumpish before, and dejected.</p>
+               <p>
+                  <hi>Object.</hi> 3. I feare I shall faile in the combate: and then, where is all my preparation, grace, comfort?</p>
+               <p>
+                  <hi>Answ.</hi> No, it is impossible to fall <hi>totally</hi> and <hi>finally. If it were possible, they should de<g ref="char:EOLhyphen"/>ceive the Elect,</hi> Math 24.24.</p>
+               <p n="1">1. God hath undertaken for his: so to <hi>put his fear into their hearts, that they shall not depart from him,</hi> Jer. 32.4. And I wilbe with thee in sixe troubles and in seven: in fire, and water: in prison, and every where. When note concerning the Covenant, that he un<g ref="char:EOLhyphen"/>dertakes not only his owne part, but ours: and so indeed wilbe in all to us: that wee may well challenge all our enemies, saying, <hi>Who shall accuse,</hi> or <hi>condemn,</hi> or <hi>separate</hi> us from the love of God in Christ Jesus? If we were left in our owne power, to stand or fall,<note place="margin">Rom. 8.33.34.</note> wee were soone gone: but now we stand by the grace of the Covenant in Christ the Mediator.</p>
+               <p n="2">
+                  <pb n="12" facs="tcp:159052:7"/>2 He will bring on his Souldiers againe, after flight or a foile: as <hi>Bilney</hi> and others, af<g ref="char:EOLhyphen"/>ter their sinfull recantations. By faith, <hi>out of weakenesse they were made strong,</hi> Heb. 11.34. Eagles by casting their bills grow young againe: and Christians <hi>renew their strength</hi> by waiting on the Lord, in the renewed acts of faith and repentance: Esa 40. <hi>ult.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> 4. The suddennesse of the thing will amaze me, and put me out of all: a dread<g ref="char:EOLhyphen"/>full alarme: the trumpet of warre, &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> 1. How can it be suddaine, seeing it hath beene so long fore-told by faithfull Mi<g ref="char:EOLhyphen"/>nisters from time to time? And this very doctrine of preparing for a judgement might prevent the objection. And it is the property of wise Christians to take warning, as <hi>Iob,</hi> c. 14.14 <hi>All the daies of my appointed time will I waite till my change come.</hi>
+               </p>
+               <p n="2">2 Our Lord prescribes us such a course, as that the evill may not be suddain: namely, by <hi>sobriety, watching, and praying.</hi> Luk. 21.34. and tells of his comming to be <hi>like a Thiefe</hi> who gives no warning and therefore the discreet Housholder will ever bolt, and keep al fast.</p>
+               <p n="3">3 If a suddaine surprisall should set thee off the hookes, yet were no mischiefe done: well it may prove an inconvenience, but no mischiefe. God doth not lye at the catch against his people: but as a wise Captaine quickly takes the alarme, and marshalleth his men to meet an enemy, so doth God for his children in all assaults that are made upon them. <hi>The foundation of God standeth sure, having this seale, the Lord knoweth who are his,</hi> 2 <hi>Tim.</hi> 2.19.</p>
+               <p>
+                  <hi>Object.</hi> 5. The extremity of suffering will put me quite off: to see all burnt, rifled, in confusion.</p>
+               <p>
+                  <hi>Answ.</hi> Doe not discourage thy selfe more then needs. Remember the defiance which is bid to all enemies, both in the world and from Hel, Rom 8.33. And <hi>thinke not strange con<g ref="char:EOLhyphen"/>cerning the fiery tryall which is to try you, as if some strange thing hapned unto you,</hi> 1 <hi>Pet</hi> 4.12. And <hi>God is faithfull, who will not suffer you to be tempted above that you are able,</hi> 1 <hi>Cor.</hi> 10.13. And if it were above man, yet not above the Lord, as the Martyrs found.</p>
+               <p>
+                  <hi>Object.</hi> 6. The lingring and lying long upon me would tyre mee out. I could abide a while, and bee valiant: but—</p>
+               <p>
+                  <hi>Answ.</hi> Whether long or little, it is God that must uphold thee. And he is able at last, as at first: being <hi>Alpha</hi> and <hi>Omega.</hi> He will bee with thee in sixe troubles, and in seaven: though thou be in prison <hi>ten dayes,</hi> Rev. 2.10. or, <hi>many dayes,</hi> Dan. 11.33.</p>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>Section 5.</hi> Hinderances of preparing for the Crosse.</head>
+               <p>
+                  <note place="margin">Causes why m<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n prep<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re not for a judgmēt.</note>THe body hath many obstructions, which breed diseases: and the soule hath many dis<g ref="char:EOLhyphen"/>tempers, which keep it secure in sin, that people never set to prepare to meete God in his judgements. One hinderance in Atheisme: men thinke not of God and eternity: <hi>God is not in all his thoughts,</hi> Psal. 10.4.</p>
+               <p>To remove this: 1. Be perswaded to meditate much and often of God, as the most desira<g ref="char:EOLhyphen"/>ble object of thy thoughts, and the onely <hi>adequate object,</hi> to give thy soule satisfaction: in comparison of whom the exactest beauty is but deformity: and, He made thee, he preser<g ref="char:EOLhyphen"/>veth thee, he hath prepared Heaven for them that prepare themselves for it. Hearken there<g ref="char:EOLhyphen"/>fore better to the Word, and Workes of God, which testifie of him: especially Earth<g ref="char:EOLhyphen"/>quakes, Thunders, and the like: by which the Heathens knew <hi>the eternall power and God<g ref="char:EOLhyphen"/>head,</hi>
+                  <pb n="13" facs="tcp:159052:7"/> 1 Rom. 1.20. and will ye be worse then the Heathen? And, if God meet you before you be prepared to meet him, what a sad greeting will it be! Sin meeteth holinesse, weak<g ref="char:EOLhyphen"/>nesse Omnipotency, a Malefactor the Judge, poore stubble a consuming fire.</p>
+               <p n="2">2 Thinke a little more of Eternity: whereof blind nature had some glimpse.<note place="margin">Arist. Cicero. Si non prae<g ref="char:EOLhyphen"/>stet fides, quod prae<g ref="char:EOLhyphen"/>stitit infide<g ref="char:EOLunhyphen"/>litas,</note>
+                  <hi>Aeternas m<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tor,</hi> and <hi>Aeternus animus,</hi> and <hi>they thought death is not to be lamented, after which eter<g ref="char:EOLhyphen"/>nity followeth:</hi> A reproach to Christians, <hi>if the true faith implant not as high notions, as doth infidelity,</hi> saith <hi>Ierome:</hi> A foule folly, by carelesnesse to lose an eternity of blessednesse, where is fulnesse of joy, and pleasures for evermore: And yet worse, to incur the eternity of misery, where the worme dyeth not, and the fire goeth not out: Mat. 25.46. <hi>These shall goe away into everlasting punishment, but the righteous into life eternall.</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Eph 2.12</note> These are swal<g ref="char:EOLhyphen"/>lowing thoughts, if weighed duely. Feare therefore, and know, Christian Heathens are the worst sort of Heathens: to professe to know God, and then deny him in workes, and live <hi>as without God in the world.</hi> And it will be a woefull thing, to have faith driven into you: that is, by sad experience to feele there is a God, and eternity: in Hell none are Atheists. Better to beleeve it now, when a safe course may bee taken, savingly to know God in Christ, and prepare to meete him in mercy.</p>
+               <p>Another hinderance of preparing is earthly-mindednesse: and this, either in worldly employments, or in naturall enjoyments. There is great distraction in worldly employ<g ref="char:EOLhyphen"/>ments, when they are either immoderate, or inordinate.<note place="margin">1 <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er 7.19 Ioh. 6 27. Phil. 3.19.20.</note>
+                  <hi>Cares of this life doe over-charge the heart,</hi> as well as surfeiting or drunkennesse, Luk. 21.34. Lawfull callings followed un<g ref="char:EOLhyphen"/>lawfully can hinder much good: as Thornes which choaked the good seed. Our rule is, to <hi>buy as not possessing:</hi> to leave roome, time, and thoughts, and affections for better things: to be heavenly-minded in earthly affaires. It were a deadly mistake, to thinke yee miscarry in unlawfull things onely: no, there is death even in the most lawfull things, not lawfully pursued, or enjoyed. A wrong Object, or inordinatenesse of pursuance, marreth a most usefull affection. God hath limited the manner, as well as the matter: set not your heart on them: &amp;c. So of naturall enjoyments: It is a sin to be wholly in them, as the men of So<g ref="char:EOLhyphen"/>dome and the old world, <hi>They eate, they dranke, they married,</hi> &amp;c.<note place="margin">Lu 17.27.</note> A fearefull end they came unto. Thinke how fraile the creature is, to beare you out when God comes to reckon.<note place="margin">Luk. 16.2.</note>
+                  <hi>Account</hi> must be given, as ye see in the unjust Steward: and that in proportion to the Talents received: Woe to the idle and unprofitable servant.</p>
+               <p>A third hinderance is daintinesse: they heare it askes much adoe, to prepare rightly and so they let it quite alone. But say I:</p>
+               <p>First, the things are good and necessary to bee had, though these troubles should never come upon you: to get into Christ, to be at peace with God, to feare him, pray, prepare for Heaven, &amp;c. And when did yee heare of excellent things, as great riches and honours, purchased easily? Yet we doe not send you to Purgatory, or bare-foote in pilgrimage, to get into the feare of God: but goe in the Evangelicall way, namely, of humiliation and justification.</p>
+               <p>Secondly, there is a <hi>Woe</hi> to some kind of <hi>ease:</hi> that is,<note place="margin">Amos 6.1. 1 Sam. 15.32.</note> of them that are foolish and care<g ref="char:EOLhyphen"/>lesse in their course toward God: not onely Babylon that lived deliciously, and <hi>Agag that</hi> came forth <hi>delicately,</hi> saying <hi>the bitternesse of death is past,</hi> but all that are secure in their way, so as not to prepare for changes. And thinke this: If the application of mercy bee so tedious, what would yee doe if yee must expiate your sinnes, and give God satisfaction?</p>
+               <p>Thirdly, thinke what an amazing mischiefe it will bee, to see the evill come, and <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:159052:8"/> unprepared. How will yee be at your wits ends, when yee expected peace, to meete with the quite contrary? The more nice and delicate, the more perplexed. Then, oh that wee had thought duely of these things before-hand! see Deutronomy. 28.56. and Lam. 4.5.</p>
+               <p>
+                  <note place="margin">Multotime redit a fi<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tatae fir<g ref="char:EOLhyphen"/>niatis prae<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mptio.</note>The fourth hinderance of preparing for the Crosse, is presumption: people thinke them<g ref="char:EOLhyphen"/>selves fit enough to dye and goe to heaven. Say I:</p>
+               <p n="1">1 It askes a great deale of labour, to be so fitted: to be right for repentance, pardon of sin, part in Christ, joy in the Holy Ghost, faith, other graces: yea and to abound too: all would be little enough in the evill day. God will know them well, whom hee meanes to take into Heaven: but of fruitelesse Christians hee will say, <hi>Depart, I know you not,</hi> Mat. 7.23.</p>
+               <p n="2">2 Even good men (those that prepared themselves) at their death finde not themselves so fit as they would be: but, if they had more grace and evidence, they should passe with more comfort: and, they had not thought to have dyed in such a manner: and their estate by Will is not setled to their mind: and, the passage is narrower then they thought it had beene: O this King of terrours!</p>
+               <p n="3">3 If thou dye before thou be fit to dye, thou art undone for ever, Death to the wicked is but the Jaylor that casteth them into the prison of Hell. Have yee never heard of the <hi>second death?</hi>
+                  <note place="margin">Rev. 2.11</note> It may be, the evills feared will come: and when they be once come, there is no ease afterward. A woefull change, to be sent out of the world with a great deale of sorrow, and then find it worse in another world. To lose prosperity, is something: but no<g ref="char:EOLhyphen"/>thing to what followeth.</p>
+               <p>The fifth hinderance of preparing for the Crosse, is carnall confidence: in the Church among them, in armies, wise States-men, and the like.</p>
+               <p>But first, to wicked ones al shal be to no purpose: <hi>The Lord hath rejected thy confidences, and thou shalt not prosper in them,</hi> Ier. 2.37. To others those things might be usefull and profitable, being meanes appointed of God for our good: but not to the wicked: it is but blowing upon them, and all comes to nothing.</p>
+               <p>Secondly, the like may be said specially of Church priviledges, and beauties: the house of Israel was ashamed <hi>of Bethel their confidence,</hi> Ier. 48.13. Yea, though they bee good Churches, of Gods owne planting, as Shilo, fearefully destroyed <hi>for the wickednesse of his people,</hi> c. 7.12. And the Churches of Asia, where are they? and the Westerne Chur<g ref="char:EOLhyphen"/>ches, now brought under the Antichristian slavery? More: if Church priviledges be not well improved, they will rise up <hi>in Iudgement,</hi> and make a peoples condemnation worse then Sodoms, <hi>VVoe to thee Corazin, &amp;c.</hi>
+               </p>
+               <p>Thirdly, in the day of wrath there is no helpe in armies, horses, vallor, wisedome, or any other meanes. An horse is a vaine thing to save a man: nor the legs of man. And Counsell is easily infatuated, that one shall clash against another, till all come to confusion: by a <hi>perverse spirit</hi> which God will mingle in the midst of the Counsellors,<note place="margin">Iosh. 2.11.</note> Esa 19.14. For valor: the hearts of the Canaanites <hi>melted</hi> before Israel. For great forces: the Lord of purpose sometimes chuseth small forces to destroy them, Iudg. 7.2.4.</p>
+               <p>The sixt hinderance of preparing for the Crosse, is neutrality: men are resolved to doe or suffer on neither side, but reserve themselves to take part with the stronger: so thinking to glide smoothly from one estate to another. A great Sect in the world: and they thinke themselves wise, yea the onely wise ones. Yet wise Heathens made a law against neutra<g ref="char:EOLhyphen"/>lity: not permitting any man in the danger of the Common-wealth to stand neuter. And
+<pb n="15" facs="tcp:159052:8"/> nature taught them, they were borne for their Countrey and Parents, not for them<g ref="char:EOLhyphen"/>selves alone. And those are base spirits, w<seg rend="sup">ch</seg> are either on both sides or neither, and care not what becomes of the publique, so that it be well with their owne private Estate.</p>
+               <p>But know: First, in common calamities a man shalbe esteemed on one side or o<g ref="char:EOLhyphen"/>ther, in one respect or other: It may be, that fide which he hath least mind unto: For his place or riches to be called a Round-head, &amp;c.</p>
+               <p>It was all one to the souldier, whether he met with a Trojan or a Rutilian.</p>
+               <p>Secondly, in such times to be surprized unawares and unprovided wilbe deadly:<note place="margin">Rev 36.</note> having all thy sins upon thee to answer for, and specially thy <hi>luke-warmnesse:</hi> neither hot nor cold, and thereby ready to be spewed out of Christs mouth.</p>
+            </div>
+            <div n="6" type="section">
+               <head>
+                  <hi>Section 6.</hi> Motives to prepare for the Crosse.</head>
+               <p>FIrst, God hath afforded al means of preparing your selves; his Word, Ministers, Fasts, as fair warning as can be: Whose fault is it, if ye be unprovided? When husbandmen have a fine season to sow, they wil bestir themselves lust<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly: &amp; so should Christians. When the market is past, who can make proviosin to his minde? Be<g ref="char:EOLhyphen"/>ware of neglecting your provision for the soule.<note place="margin">2 Cor. 6.1</note> To day if ye will heare his voyce harden not your heart. <hi>Now is the accepted time, now is the day of salvation.</hi>
+               </p>
+               <p>Secondly, what is our course in other things, though of lesse moment? We prepare answer in a tryall of law. In Summer we lay up provisions against winter. And not only we, but unreasonable creatures, the pismire &amp;c. What in the great matters of the soule.</p>
+               <p>Thirdly, it wilbe wisedom, and a sign of sincerity, to prepare whether ever there be need (by War and its calamity) or no. It is good husbandry to look to the main cha<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os. And reason teacheth, in a doubtfull matter to make sure work:<note place="margin">Amos 3.8</note>
+                  <hi>to feare when the Lyon roareth,</hi> and work with God for the everlasting good of our soules: to feare the displeasure of our angry Father, who sheweth some love in warning us: to fear the signs of the times, as a lowring cloud, which threatneth a great evill. What, al for selfe? no yielding, but by present smart? did not <hi>Pharaoh</hi> doe as much as this comes unto.</p>
+               <p>Fourthly, graces and comforts prepared wilbe of use another way, though publike calamities come not. Death mu<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> come, and judgment: and feavers may come, stone, gout, plurifie, other disaeses: with grievous crosses and losses, which wilbe altoge<g ref="char:EOLhyphen"/>ther intolerable without a good stock of grace and comfort. Yea, common calami<g ref="char:EOLhyphen"/>ties of the family: in children, servants, chapmen &amp;c. Yea, while ye are in health, peace, sweet unity among your selves, all handsome accommodations, it is onely grace, that preventeth sinne: and the more grace, the more unblamable ye wilbe in your way: and the more profitable, according to duty. And it is only holy comfort that keepeth out melancholy: as is seen in some rich ones, who have contentment little enough. Howsoever, this is the only full and satisfying comfort: <hi>beleeving,</hi>
+                  <note place="margin">1 Pet 1.8.</note>
+                  <hi>ye rejoyce with joy unspeakable and full of glory:</hi> and a strengthning comfort, <hi>Neh.</hi> 8.10. the joy of the Lord is your strength.</p>
+               <p>Fif<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly the best prepared have found all little enough in fiery tryals. The <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e kin<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eat up the fat, and looked ill-favoured as before. And oh that they had more knowledg, more faith, more grace, more hold of heaven and of Gods love! If better
+<pb n="16" facs="tcp:159052:9"/> cloathed, they had better kept out the shour of rain. And in death, oh the rebellion of flesh and blood! oh what difficulty to passe through the straight gate! oh the sturdy corruption which they thought mortified! oh what weaknesse of faith, which they thought far stron<g ref="char:EOLhyphen"/>ger! And they thought death, and they had bin better acquainted. And a deale of worke they have to do, when they have but an hour or two to doe it. Oh that others would a<g ref="char:EOLhyphen"/>mend their pace, and take warning by their brethren! Take victuals enough for your voy<g ref="char:EOLhyphen"/>age: ye may be wind-bound, and pusled more then ye are aware.</p>
+               <p>Sixtly, God prepares to meet you: both <hi>hereafter,</hi> to give glory, 1 <hi>Cor.</hi> 2.9. and <hi>in this life,</hi>
+                  <note place="margin">L<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 5 20.</note> to give you mercy and comfort, the father <hi>went forth to meet his</hi> prodigall Sonne, <hi>the Lord waiteth to be gracious,</hi> Esa 30.18. preventeth us with loving kindnesse, and pre<g ref="char:EOLhyphen"/>pareth a gracious answer. Consider: should the King prepare to meet a subject, and the subject not prepare to meet the King? Many a man hath made a journey in vaine to meet his friend, or lost all the preparation he made for his entertainment: but so it wil not be be<g ref="char:EOLhyphen"/>tween a good God, and a good soule which hath prepared to meet him.</p>
+               <p>
+                  <note place="margin">Sig<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es of w<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> c<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mm<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng.</note>Seaventhly, in all probability a judgment is comming. Let alone matters of State, and consider these things.</p>
+               <p n="1">1 Sins against the holy law of God, so aggravated by circumstances: in a good land, a<g ref="char:EOLhyphen"/>gainst great mercies, after many fatherly corrections, in the midst of glorious meanes of grace, &amp;c. Adde the great security in those sins: the generality of sinning: audaciousnesse, impunity, and the like arguments of ripenesse for vengeance.</p>
+               <p n="2">2. Sins against the Gospel, now that the seven-fold light is come, yet men love darknesse rather then light, <hi>this is the condemnation,</hi> Joh. 3.19, Christ is now crucified afresh great salvation neglected, the offer of grace rejected. Generally people are very unthankful for the Gospel, and yeeld but little fruit: therefore in danger. When the Son was staine, the vineyard was let to other husbandmen.</p>
+               <p n="3">3. Restraint of the Spirit: who hath almost ceased to <hi>strive</hi> with people for their a<g ref="char:EOLhyphen"/>mendment: as before the flood came, <hi>Gen.</hi> 6.3. <hi>My spirit shal no more strive with man:</hi> few converted by much powerful preaching: in a great Congregation few smitten in heart, as <hi>Acts</hi> 2.37.<note place="margin">Ezek 22.3<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> The Lord may even <hi>seeke and looke for a man</hi> that repenteth of his evill wayes.</p>
+               <p n="4">4. Men &amp; women generally are <hi>either without naturall affection,</hi> the father against the son, the son against the father, &amp;c. which brings <hi>a curse upon the earth,</hi> Malac. 4.6. The earth was <hi>filled with violence,</hi> and so drowned, <hi>Gen.</hi> 6.13. <hi>Or all for selfe,</hi> neglecting the publike: so that it be wel with them no matter for the Church of God, the Commonwealth, Plantations:<note place="margin">Phil <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.21.</note>
+                  <hi>all seeke their owne things, not the things of Iesus Christ:</hi> and then comes a curse, as upon <hi>Meroz, not helping the Lord against the mighty,</hi> Judg. 5.23.</p>
+               <p n="5">5. Persecution to those few that swim against the stream. <hi>He that abstaineth from evill, maketh himself a prey,</hi> Esa. 59.15. Every varlet thinks himselfe good enough to scorn re<g ref="char:EOLhyphen"/>ligion in the best servant that God hath. And for men of fashion, of all sorts of people they think none fitter for their contempt, then faithfull Preachers and professors of the Gospell.</p>
+               <p n="6">6. The best Ministers have a long time cryed out of such a thing, and stil doe. Many a <hi>Lot</hi> and <hi>Noah</hi> hath told of a flood comming, or some other judgment, And to this day we see little signe to the contrary. 7. Lighter afflictions have bin slighted: <hi>Hos.</hi> 5.12.13.14.</p>
+               <p n="8">8. Great deliverances have bin to no purpose: that the Lord may well say as to Israel. <hi>I will deliver you no more,</hi> Judg. 10.13. Aske mens lives, and it appeares, that men live as if they were <hi>delivered to do still all their abhominations,</hi> Jer. 7.10.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
